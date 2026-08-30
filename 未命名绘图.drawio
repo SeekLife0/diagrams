@@ -27,7 +27,7 @@
         <mxCell id="2jd3zekmzJ4i5ESmlx0t-33" edge="1" parent="1" source="2jd3zekmzJ4i5ESmlx0t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="2jd3zekmzJ4i5ESmlx0t-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;简录笔记应用&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;笔记应用&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="530" y="120" as="geometry" />
         </mxCell>
         <mxCell id="2jd3zekmzJ4i5ESmlx0t-45" edge="1" parent="1" source="2jd3zekmzJ4i5ESmlx0t-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2jd3zekmzJ4i5ESmlx0t-23">
@@ -74,19 +74,19 @@
         <mxCell id="2jd3zekmzJ4i5ESmlx0t-53" edge="1" parent="1" source="2jd3zekmzJ4i5ESmlx0t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="2jd3zekmzJ4i5ESmlx0t-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;笔记管理后台应用&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;笔记管理后台应用&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="513" y="1070" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;笔记管理&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;笔记管理&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="513" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;博客管理&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;博客管理&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AI日志&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AI日志&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="840" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="2jd3zekmzJ4i5ESmlx0t-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" vertex="1">
@@ -140,7 +140,7 @@
         <mxCell id="2jd3zekmzJ4i5ESmlx0t-47" edge="1" parent="1" source="2jd3zekmzJ4i5ESmlx0t-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.592;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="2jd3zekmzJ4i5ESmlx0t-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2jd3zekmzJ4i5ESmlx0t-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统计图表&lt;/font&gt;" vertex="1">
+        <mxCell id="2jd3zekmzJ4i5ESmlx0t-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统计图表&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="195" y="1210" as="geometry" />
         </mxCell>
       </root>
