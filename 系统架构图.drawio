@@ -62,7 +62,7 @@
           <mxGeometry height="47" width="90" x="537" y="235" as="geometry" />
         </mxCell>
         <mxCell id="ji42yIckKphAbdBtRIIw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
-          <mxGeometry height="331" width="770" x="197" y="459" as="geometry" />
+          <mxGeometry height="271" width="770" x="197" y="459" as="geometry" />
         </mxCell>
         <mxCell id="ji42yIckKphAbdBtRIIw-26" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" value="" vertex="1">
           <mxGeometry height="30" width="60" x="225" y="415" as="geometry" />
@@ -85,11 +85,47 @@
         <mxCell id="ji42yIckKphAbdBtRIIw-35" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" value="" vertex="1">
           <mxGeometry height="30" width="60" x="552" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="ji42yIckKphAbdBtRIIw-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Redis缓存" vertex="1">
+        <mxCell id="ji42yIckKphAbdBtRIIw-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Redis缓存" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="643" as="geometry" />
         </mxCell>
-        <mxCell id="ji42yIckKphAbdBtRIIw-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文件存储" vertex="1">
+        <mxCell id="ji42yIckKphAbdBtRIIw-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="文件存储" vertex="1">
           <mxGeometry height="60" width="120" x="794" y="643" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-38" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="609.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-39" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="829" y="609.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据层" vertex="1">
+          <mxGeometry height="30" width="60" x="85" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="110" width="770" x="199.99999999999997" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-43" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="182" y="770" as="sourcePoint" />
+            <mxPoint x="982" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-45" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="225" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-46" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="885" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="JDBC/Redis协议" vertex="1">
+          <mxGeometry height="30" width="450.78" x="356.61" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Redis" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="827" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="PostgreSQL" vertex="1">
+          <mxGeometry height="60" width="120" x="751.55" y="827" as="geometry" />
+        </mxCell>
+        <mxCell id="ji42yIckKphAbdBtRIIw-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP" vertex="1">
+          <mxGeometry height="30" width="60" x="552" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
