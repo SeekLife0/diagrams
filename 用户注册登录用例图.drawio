@@ -1,11 +1,104 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="yn6UmjHO5OtpbFhcoIIi">
-    <mxGraphModel dx="1193" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6p6vNECeFsPTgp-rzJLa-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="300" y="320" as="geometry" />
+        <mxCell id="F-8WEHMtYRiDOClRketw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#FFE7F4);fontColor=#ffffff;strokeColor=#3700CC;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="145" width="339" x="209" y="84" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="系统边界" vertex="1">
+          <mxGeometry height="30" width="60" x="348.5" y="91" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#FFE7F4);fontColor=#ffffff;strokeColor=#3700CC;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="252" width="339" x="207" y="244" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="系统边界" vertex="1">
+          <mxGeometry height="30" width="60" x="352" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="注册登录" vertex="1">
+          <mxGeometry height="47" width="95" x="221" y="261" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="笔记管理" vertex="1">
+          <mxGeometry height="53" width="105.5" x="227.25" y="339.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="登录" vertex="1">
+          <mxGeometry height="41" width="95" x="221" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="用户管理" vertex="1">
+          <mxGeometry height="41" width="95" x="221" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="笔记管理" vertex="1">
+          <mxGeometry height="41" width="95" x="338" y="132" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="博客管理" vertex="1">
+          <mxGeometry height="41" width="95" x="428" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="AI调用日志" vertex="1">
+          <mxGeometry height="41" width="95" x="424" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="文件夹管理" vertex="1">
+          <mxGeometry height="47" width="95" x="321" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="搜索" vertex="1">
+          <mxGeometry height="47" width="95" x="435" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="AI辅助" vertex="1">
+          <mxGeometry height="47" width="95" x="435" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="数据统计" vertex="1">
+          <mxGeometry height="41" width="95" x="287" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="博客发布" vertex="1">
+          <mxGeometry height="47" width="95" x="326" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="安卓端离线访问" vertex="1">
+          <mxGeometry height="53" width="131" x="388" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="博客详情" vertex="1">
+          <mxGeometry height="47" width="95" x="227.25" y="428" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-25" edge="1" parent="1" source="F-8WEHMtYRiDOClRketw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121.99659381734918" y="160.20689655172418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-31" edge="1" parent="1" source="F-8WEHMtYRiDOClRketw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#000000);" target="F-8WEHMtYRiDOClRketw-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195.85" y="147.28" />
+              <mxPoint x="195.85" y="147.28" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-32" connectable="0" parent="F-8WEHMtYRiDOClRketw-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="操作" vertex="1">
+          <mxGeometry relative="1" x="-0.136" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-24" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="管理员" vertex="1">
+          <mxGeometry height="79" width="44" x="110" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-26" edge="1" parent="1" source="F-8WEHMtYRiDOClRketw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109" y="341.2068965517242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-30" edge="1" parent="1" source="F-8WEHMtYRiDOClRketw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#000000);" target="F-8WEHMtYRiDOClRketw-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="192" y="351" />
+              <mxPoint x="192" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-33" connectable="0" parent="F-8WEHMtYRiDOClRketw-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="操作" vertex="1">
+          <mxGeometry relative="1" x="-0.2736" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-8WEHMtYRiDOClRketw-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="用户" vertex="1">
+          <mxGeometry height="90" width="41.9" x="115.1" y="321" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
