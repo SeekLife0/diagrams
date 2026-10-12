@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="系统E-R图">
-    <mxGraphModel dx="1193" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="994" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,23 +59,22 @@
             <mxPoint x="576.2" y="472.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V6kd82kHs8p3HRChT4F7-55" edge="1" parent="1" source="V6kd82kHs8p3HRChT4F7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=light-dark(#2D7600,#000000);fontColor=light-dark(#000000,#000000);" target="V6kd82kHs8p3HRChT4F7-47" value="1:N">
+        <mxCell id="V6kd82kHs8p3HRChT4F7-55" edge="1" parent="1" source="V6kd82kHs8p3HRChT4F7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=light-dark(#2D7600,#000000);fontColor=light-dark(#000000,#000000);" target="V6kd82kHs8p3HRChT4F7-47" value="1:N">
           <mxGeometry relative="1" x="-0.2208" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="607.8" y="376.48" />
-              <mxPoint x="674.36" y="376.48" />
-              <mxPoint x="674.36" y="418.6" />
+              <mxPoint x="607.81" y="376.48" />
+              <mxPoint x="674.37" y="376.48" />
+              <mxPoint x="674.37" y="418.59" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V6kd82kHs8p3HRChT4F7-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);entryX=0.013;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=light-dark(#2D7600,#000000);fontColor=light-dark(#000000,#000000);" target="V6kd82kHs8p3HRChT4F7-48" value="N:M">
+        <mxCell id="V6kd82kHs8p3HRChT4F7-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);entryX=0.018;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=light-dark(#2D7600,#000000);fontColor=light-dark(#000000,#000000);" target="V6kd82kHs8p3HRChT4F7-48" value="N:M">
           <mxGeometry relative="1" x="-0.0137" y="6" as="geometry">
             <mxPoint y="-1" as="offset" />
             <Array as="points">
-              <mxPoint x="957.06" y="412.91" />
-              <mxPoint x="957.06" y="334.91" />
-              <mxPoint x="1003.51" y="334.91" />
+              <mxPoint x="957.07" y="412.91" />
+              <mxPoint x="957.07" y="334.91" />
             </Array>
             <mxPoint x="926.2" y="412.89" as="sourcePoint" />
             <mxPoint x="1006.99" y="347.57" as="targetPoint" />
@@ -103,13 +102,13 @@
             <mxPoint x="684.12" y="624.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V6kd82kHs8p3HRChT4F7-59" edge="1" parent="1" source="V6kd82kHs8p3HRChT4F7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.6;entryDx=0;entryDy=0;innerLoopWaypoints=1;fillColor=#60a917;strokeColor=light-dark(#2D7600,#000000);fontColor=light-dark(#000000,#000000);" target="V6kd82kHs8p3HRChT4F7-46" value="1:N 自引用">
+        <mxCell id="V6kd82kHs8p3HRChT4F7-59" edge="1" parent="1" source="V6kd82kHs8p3HRChT4F7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.986;entryY=0.577;entryDx=0;entryDy=0;innerLoopWaypoints=1;fillColor=#60a917;strokeColor=light-dark(#2D7600,#000000);fontColor=light-dark(#000000,#000000);entryPerimeter=0;" target="V6kd82kHs8p3HRChT4F7-46" value="1:N 自引用">
           <mxGeometry relative="1" x="0.0019" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="607.81" y="293.47" />
               <mxPoint x="649.17" y="293.47" />
-              <mxPoint x="649.17" y="361" />
+              <mxPoint x="649.17" y="361.19" />
             </Array>
           </mxGeometry>
         </mxCell>
